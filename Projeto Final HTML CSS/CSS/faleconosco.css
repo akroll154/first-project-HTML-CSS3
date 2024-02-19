@@ -1,0 +1,131 @@
+#ipro {
+
+    color: rgb(245, 181, 78);
+
+}
+
+
+main {
+
+    width: 1200px;
+    height: 99%;
+    background-color: rgba(54, 21, 4, 1);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-left: 75px groove rgb(33, 13, 3);
+    border-right: 75px ridge rgb(33, 13, 3);
+    margin-top: 1%;
+    z-index: 1;
+    padding-bottom: 500px;
+
+}
+
+
+#ifaleconosco {
+
+    z-index: 3;
+    position: absolute;
+    margin-top: 320px;
+    height: 800px;
+    width: 1200px;
+    text-align: center;
+
+}
+
+label {
+
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+input {
+
+    border: 2px solid rgb(33, 13, 3);
+    border-radius: 10px;
+    height: 33px;
+    font-size: 20px;
+    width: 300px;
+
+}
+
+input,
+label {
+
+    margin-top: 2%;
+    transition: 0.5s;
+    -o-transition: 0.5s;
+    -moz-transition: 0.5s;
+
+
+}
+
+input:hover {
+
+    background-color: rgb(245, 181, 78);
+    transition: 0.5s;
+    -o-transition: 0.5s;
+    -moz-transition: 0.5s;
+
+}
+
+input:focus {
+    background-color: rgb(245, 181, 78);
+
+
+}
+
+main p {
+
+    color: rgb(245, 181, 78);
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+
+}
+
+textarea {
+    resize: none;
+    border: 2px solid rgb(33, 13, 3);
+    border-radius: 15px;
+    transition: 0.5s;
+    -o-transition: 0.5s;
+    -moz-transition: 0.5s;
+    font-size: 20px;
+
+
+}
+
+#ienviar {
+
+    height: 30px;
+    width: 80px;
+    font-size: 20px;
+    border: 2px solid rgb(33, 13, 3);
+
+
+}
+
+#iemail {
+
+    margin-bottom: 50px;
+
+}
+
+
+textarea:focus {
+
+    background-color: rgb(245, 181, 78);
+
+}
+
+hr {
+
+    color: rgb(245, 181, 78);
+    margin-bottom: 25px;
+    margin-top: 25px;
+
+}

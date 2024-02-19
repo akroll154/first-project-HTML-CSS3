@@ -1,0 +1,88 @@
+h1 {
+
+    margin-top: 80%;
+    color: rgb(245, 181, 78);
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 25px;
+
+}
+
+label {
+
+    font-size: 30px;
+    color: white;
+
+
+}
+
+input,
+select {
+
+    display: block;
+    height: 30px;
+    width: 500px;
+    border-radius: 5px;
+    transition: 0.5s;
+    -o-transition: 0.5s;
+    -moz-transition: 0.5s;
+    font-size: 20px;
+
+
+
+}
+
+input:hover {
+
+    background-color: rgb(245, 181, 78);
+    transition: 0.5s;
+    -o-transition: 0.5s;
+    -moz-transition: 0.5s;
+
+}
+
+input:focus {
+
+    background-color: rgb(245, 181, 78);
+    transition: 0.5s;
+    -o-transition: 0.5s;
+    -moz-transition: 0.5s;
+
+}
+
+hr {
+
+    color: rgb(245, 181, 78);
+    margin-bottom: 25px;
+    margin-top: 25px;
+
+}
+
+.cmarg {
+
+    margin-right: 20px;
+    padding-right: 0%;
+
+}
+
+.cmargi {
+
+    width: 50px;
+    margin-left: 0%;
+    padding-right: 0%;
+    display: inline-block;
+
+}
+
+#icad {
+
+    color: rgb(245, 181, 78);
+
+}
+
+#idata,
+#iufs {
+
+    text-align: center;
+
+}
